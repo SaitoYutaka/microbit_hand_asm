@@ -6,7 +6,7 @@ This page describe how to make a program without programming environment.
 # Tool
 
  - PC(Windows, Mac, Linux)
- - Note book
+ - Notebook
  - Pencil
  - Binary editor
 
